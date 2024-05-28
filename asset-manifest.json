@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cygnusweb/static/css/main.fc53125e.css",
+    "main.js": "/cygnusweb/static/js/main.fef75a47.js",
+    "static/js/453.4fc0d3e1.chunk.js": "/cygnusweb/static/js/453.4fc0d3e1.chunk.js",
+    "static/media/CYGNUS_Baroque_Logo_Black_Transparent.png": "/cygnusweb/static/media/CYGNUS_Baroque_Logo_Black_Transparent.287b3a209b12f9e9d825.png",
+    "index.html": "/cygnusweb/index.html",
+    "main.fc53125e.css.map": "/cygnusweb/static/css/main.fc53125e.css.map",
+    "main.fef75a47.js.map": "/cygnusweb/static/js/main.fef75a47.js.map",
+    "453.4fc0d3e1.chunk.js.map": "/cygnusweb/static/js/453.4fc0d3e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc53125e.css",
+    "static/js/main.fef75a47.js"
+  ]
+}
